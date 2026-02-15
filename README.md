@@ -97,3 +97,8 @@ Same preprocessing during inference
 Deployment-ready model
 
 No manual preprocessing required
+
+# Output
+
+<img width="720" height="329" alt="Image" src="https://github.com/user-attachments/assets/da1038bc-20e5-4fe8-9fa3-f090b45e0b32" />
+
